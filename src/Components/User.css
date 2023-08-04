@@ -1,0 +1,103 @@
+body {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.container-xxl-fluid-ushome{
+    background-image: url("https://www.teahub.io/photos/full/311-3115468_mobile-technology-wallpaper-hd.jpg")!important;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+  .heading_style {
+    padding: 20px 0;
+    width: auto;
+    margin: auto;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-family: "Raleway", sans-serif;
+    font-size: 1.5rem;
+    font-weight: 500;
+    background-color: #cddc39;
+    position:relative;
+    opacity:0.1;
+    top:-31px;
+    height: 111px;
+    text-align: center;
+
+    
+  }
+  
+ 
+  .card {
+    border-radius: 5px;
+    box-shadow: 0px 13px 10px -7px rgba(0, 0, 0, 0.904);
+    float: left;
+    box-shadow: 0 5px 10px;
+    border-radius: 5px;
+    text-align: center;
+    width: 20%;
+    margin: 10px;
+  
+      
+  }
+  p{
+    color: aliceblue;
+  }
+  h4{
+    color: bisque;
+  }
+  .card:hover {
+    box-shadow: 0px 30px 18px -8px rgba(0, 0, 0, 0.904);
+    transform: scale(1.05, 1.05);
+  }
+  .card_img {
+    width: 100%;
+    height: 235px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+  }
+  
+  .card__info {
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    padding: 16px 24px 24px 24px;
+  }
+  .card__category {
+    font-family: "Raleway", sans-serif;
+    text-transform: uppercase;
+    font-size: 13px;
+    letter-spacing: 2px;
+    font-weight: 500;
+  }
+  .card__title {
+    margin-top: 5px;
+    margin-bottom: 10px;
+    font-family: "Raleway", sans-serif;
+    text-transform: capitalize;
+    color: black;
+  }
+  button:hover {
+    cursor: pointer;
+    background-color: white;
+    color: black;
+    border-color: rgb(73, 72, 72);
+  }
+  button {
+    padding: 5px 8px;
+    font-family: "Raleway", sans-serif;
+    text-transform: uppercase;
+    font-size: 13px;
+    letter-spacing: 2px;
+    font-weight: 500;
+    color: dimgrey;
+    background-color: black;
+    outline: auto;
+    border: 1px solid black;
+    cursor: pointer;
+  }
+  @media (max-width: 768px) {
+  }
+  

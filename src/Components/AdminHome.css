@@ -1,0 +1,38 @@
+body{
+  margin: 0px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.container-xxl-fluid-ad{
+  background-image: url("https://wallpaperaccess.com/full/449895.jpg");
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.cardss{
+  margin-top:40px;
+  margin: 40px 5px 5px 10px;
+  background-color: #dcedc8;
+}
+h1{
+  text-shadow: 2px 2px 5px greenyellow;
+  text-align: center;
+  font-size: 60px;
+  margin-top: 20px;
+}
+h3{
+  text-shadow: 2px 2px 5px #ff0000;
+  color: #ffeb3b;
+}
+img{
+  height: 300px;
+}
+.Adminsub-container-xxl-fluid{
+  background-image: url("https://besthqwallpapers.com/Uploads/5-12-2020/148447/thumb2-black-hexagons-4k-hexagons-3d-texture-honeycomb-hexagons-patterns.jpg");
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

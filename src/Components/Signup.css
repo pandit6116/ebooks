@@ -1,0 +1,102 @@
+.body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+      "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+  .navbar-brand{
+    color: #e0f2f1;
+    font-weight:bold;
+    font-family:serif;
+    
+  }
+  .navbar a:hover{
+    color:#304ffe !important;
+    font-style: 0px 30px 18px -8px rgba(0, 0, 0, 0.904);
+    transform: scale(1.05, 1.05);
+  }
+  .navbar a{
+    text-transform: capitalize;
+  }
+  .head:hover{
+    color:#304ffe !important;
+    text-transform: capitalize;
+  }
+  
+  
+  
+  .menu_active{
+    font-weight: bold;
+  }
+
+  
+  .absss {
+    color: #0091ea;
+    background: transparent;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  .input{
+    width: 70%;
+    margin-top: 50px;
+    padding: 19px 10px;
+    border: none;
+    
+    outline: none;
+    margin: 10px 0;
+    text-align: left;
+    background-color: #bbdefb;
+    opacity: 0.6;
+  }
+ 
+  .button {
+    
+    line-height: 30px;
+    padding: 0 20px;
+    background-color: #b0bec5;
+    box-shadow: 1px 1px 1px rgb(58, 58, 58);
+    border: 2px solid black;
+     outline: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 8px;
+    margin-bottom: 5px;
+  } 
+  button:hover {
+    background-color: #ef9a9a !important;
+  }
+  .atnss {
+    position: absolute;
+    width: 30%;
+    height: 550%;
+    top: 400%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-image: url("https://media.istockphoto.com/photos/dark-black-and-blue-grungy-wall-background-for-display-or-montage-of-picture-id1150477705?k=20&m=1150477705&s=612x612&w=0&h=Yrqw1w6bEJ40kZFTSovkLtu4VE52zLgl-n6AE1t2BuM=");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    background-color: #eeeeee;
+    border-radius: 20px;
+    box-shadow: 5px 5px 30px black;
+    overflow-y: auto;
+    min-height: 30px;
+    padding: 15px 10px 5px 10px;
+    text-align: center;
+    
+  
+  }
+.signus{
+  background-image: url("https://www.desktopbackground.org/download/1600x900/2010/04/29/9397_admin-author-at-hd-images-new-page-82-of-85_1920x1080_h.jpg")!important;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+  
+  
+  
